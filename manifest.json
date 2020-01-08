@@ -1,0 +1,10 @@
+{
+  "Name": "Name Generator",
+  "Author": "K10_FTW",
+  "Version": "1.0.0",
+  "Description": "Modifies animal name generator to fantasy-themed names.",
+  "UniqueID": "krissy.NameGenerator",
+  "EntryDll": "NameGenerator.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
