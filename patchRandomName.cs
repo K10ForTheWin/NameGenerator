@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NameGenerator
 {
-    class patchRandomName
+    public class patchRandomName
     {
         internal static void Postfix(ref string __source)
         {
